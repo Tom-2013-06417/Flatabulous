@@ -16,7 +16,7 @@ Install it manually, if you are on Ubuntu 16.04 or higher. If you prefer the `.d
 
 This theme was designed *specially* for the Unity environment on Ubuntu as I have only tested it on Ubuntu. It might not work properly for the other versions.
 
-![Imgur](https://imgur.com/i1clRll)
+![Imgur](https://imgur.com/i1clRll.png)
 *The terminal*
 
 
@@ -63,7 +63,7 @@ Now this is a hidden directory, to view this in Nautilus, you can press `Ctrl/‚å
 
 # Flat Icons
 
-![Flat Icons](https://imgur.com/GffTHkO)
+![Flat Icons](https://imgur.com/GffTHkO.png)
 *Dashboard*
 
 For icons, I use the ultra-flat-icons theme. It is available in blue (recommended), orange and mint green colors. To install this, you can run the following commands
@@ -82,40 +82,15 @@ Now press your super key, search for **Ubuntu Tweak** and fire it. Under the twe
 
 # Screenshots
 
-![Code](https://imgur.com/4XKHKjK)
+![Code](https://imgur.com/4XKHKjK.png)
 *Theme with Sublime Text 3 and JavaScript Code.*
 
 
-![Nautilus](https://imgur.com/UOOYeAc)
+![Nautilus](https://imgur.com/UOOYeAc.png)
 *Nautilus*
 
-![Settings](https://imgur.com/9WsMLyy)
+![Settings](https://imgur.com/9WsMLyy.png)
 *Settings Menu*
-
-# Posters
-
-There are a few posters, for promotion and publicity. The PSD files can be found [here](https://github.com/anmoljagetia/Flatabulous/tree/master/preview/PSD). Feel free to improve them.
-
-![Poster 1](http://i.imgur.com/0SZrre3.png)
-*Red Poster*
-
-![Poster 2](http://i.imgur.com/tv3II6s.png)
-*Flat Poster*
-
-# Contributing
-
-For any questions, please open an issue. If you are a developer or a designer, please contribute in form of code/graphics. For any other issue, please [email me](mailto:hello@anmoljagetia.me).
-
-# Contributors
-
-List of all contributors can be found [here](https://github.com/anmoljagetia/Flatabulous/graphs/contributors). I would also like to specially thank :
-
-1. [Ed Bruck](https://github.com/ebruck) : For providing with the setup to create .deb files for the theme.
-2. [Dexbyte](https://github.com/dexbyte) : For providing the rounded corners in the latest master branch.
-3. [Adalid Gamero](https://github.com/gamerox) : For fixing the check-box issue on 14.xx and 15.xx systems.
-4. [Sergey](https://github.com/Defman21) : For removing transparency from Tool-tips on GTK3 Apps.
-
-You guys are awesome!
 
 # Updates
 
@@ -131,11 +106,11 @@ You guys are awesome!
 
 **Q. Where can I find your wallpaper ?**
 
-**A.** This wallpaper can be found [in Reddit](https://i.reddit.com/r/wallpapers/comments/itwp4l/chill_city_3840x2160/) made by user [Baronkage](https://www.reddit.com/user/Baronkage.compact).
+**A.** This wallpaper can be found [in Reddit](https://i.reddit.com/r/wallpapers/comments/itwp4l/chill_city_3840x2160/) submitted by user [Baronkage](https://www.reddit.com/user/Baronkage.compact).
 
 **Q. What is your terminal?**
 
-**A.** I use zsh with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) configuration. For the color scheme,
+**A.** I use zsh with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) configuration.
 
 # License
 
