@@ -1,6 +1,7 @@
 ![Flatabulous](http://i.imgur.com/6UciOOK.png)
 
-*Update* - I am looking for additional collaborators and maintainers to help me out with this. I have been keeping busy lately, and have been using Ubuntu sporadically, so it would be nice to have some help!
+This is a [fork](https://github.com/anmoljagetia/Flatabulous) of the original Flatabulous
+theme by anmoljagetia, customized to suit my preferences.
 
 # Flatabulous
 
@@ -15,7 +16,7 @@ Install it manually, if you are on Ubuntu 16.04 or higher. If you prefer the `.d
 
 This theme was designed *specially* for the Unity environment on Ubuntu as I have only tested it on Ubuntu. It might not work properly for the other versions.
 
-![Imgur](http://i.imgur.com/M5yxggQ.png?1)
+![Imgur](https://imgur.com/i1clRll)
 *The terminal*
 
 
@@ -62,7 +63,7 @@ Now this is a hidden directory, to view this in Nautilus, you can press `Ctrl/‚å
 
 # Flat Icons
 
-![Flat Icons](http://i.imgur.com/80qCZGQ.png)
+![Flat Icons](https://imgur.com/GffTHkO)
 *Dashboard*
 
 For icons, I use the ultra-flat-icons theme. It is available in blue (recommended), orange and mint green colors. To install this, you can run the following commands
@@ -81,14 +82,14 @@ Now press your super key, search for **Ubuntu Tweak** and fire it. Under the twe
 
 # Screenshots
 
-![Code](http://i.imgur.com/AspVFn7.png?1)
+![Code](https://imgur.com/4XKHKjK)
 *Theme with Sublime Text 3 and JavaScript Code.*
 
 
-![Nautilus](http://i.imgur.com/yXB6VSa.png?1)
+![Nautilus](https://imgur.com/UOOYeAc)
 *Nautilus*
 
-![Settings](http://i.imgur.com/TKTe3Mn.png?1)
+![Settings](https://imgur.com/9WsMLyy)
 *Settings Menu*
 
 # Posters
@@ -118,41 +119,23 @@ You guys are awesome!
 
 # Updates
 
-## v 1.1
+## v 1.2
 
-* Fixes issue of transparent check-box and transparent radio buttons.
-* Updates the launcher icon.
-* Adds rounded top bars to unity.
+* Changed background color to a darker gray #181d25
 
 # Frequently Asked Questions (FAQ)
 
-**Q. What is your Sublime Text theme ?**
+**Q. What is your VS Code theme ?**
 
-**A.** My Sublime text theme is a port of [Brogrammer](https://github.com/kenwheeler/brogrammer-theme) and [Numix](https://github.com/nauzethc/sublime-text-numix) themes, which I have tweaked a little using [this](http://tmtheme-editor.herokuapp.com/) awesome tool for better contrast and colors. My exact version can be found [here](https://github.com/anmoljagetia/dotfiles/blob/master/sublime/anmol.tmTheme).
-
-[**Quentin Gerodel**](https://github.com/Swizz540) has also contributed a version for [Atom](https://atom.io), which can be found [here](https://github.com/Swizz540/atom-anmol-syntax).
+**A.** My VS Code theme is [One Dark Space Gray](https://marketplace.visualstudio.com/items?itemName=fivepointseven.vscode-theme-onedark-spacegray)
 
 **Q. Where can I find your wallpaper ?**
 
-**A.** This wallpaper can be found [here](http://imgur.com/nrbzQMa) and [here](https://drive.google.com/a/media.net/file/d/0B4nzxp4u7hzvVXJVeTZoY3dhSEE/view).
+**A.** This wallpaper can be found [in Reddit](https://i.reddit.com/r/wallpapers/comments/itwp4l/chill_city_3840x2160/) made by user [Baronkage](https://www.reddit.com/user/Baronkage.compact).
 
-Credits: [Meteor](https://dribbble.com/shots/1355879-Meteor-Wallpaper) by [Nina Geometrieva](https://dribbble.com/ni)
+**Q. What is your terminal?**
 
-**Q. What are your terminal theme and settings ?**
-
-**A.** I am presently using zsh with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) configuration. For the colorscheme, I am using a modified version of the default tango colors, material colors and the one dark scheme.
-
-My zsh config can be found [here](https://github.com/anmoljagetia/dotfiles/blob/master/zsh/custom/themes/anmol.zsh-theme). This works if  you have powerline fonts installed and oh-my-zsh setup. All other dotfiles can be found [here](https://github.com/anmoljagetia/dotfiles).
-
-[Here](https://gist.github.com/anmoljagetia/780945d542a27c6cf6e8) is a script that will add a new profile in gnome-terminal that mimics my terminal settings.
-
-A one liner install can be done by running the command
-
-```
-wget -O xt http://git.io/vn6HM && chmod +x xt && ./xt && rm xt
-```
-
-I have my terminal set at 10% transparency. More cool color schemes can be found [here](https://terminal.sexy), for a variety of other terminals.
+**A.** I use zsh with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) configuration. For the color scheme,
 
 # License
 
