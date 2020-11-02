@@ -83,7 +83,7 @@ Now press your super key, search for **Ubuntu Tweak** and fire it. Under the twe
 # Screenshots
 
 ![Code](https://imgur.com/4XKHKjK.png)
-*Theme with Sublime Text 3 and JavaScript Code.*
+*Theme with VS Code and Javascript.*
 
 
 ![Nautilus](https://imgur.com/UOOYeAc.png)
